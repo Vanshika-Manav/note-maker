@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vanshika-Manav/note-maker.git/static/css/main.2f71993b.css",
+    "main.js": "/Vanshika-Manav/note-maker.git/static/js/main.f22c3d16.js",
+    "static/js/787.2e9082b0.chunk.js": "/Vanshika-Manav/note-maker.git/static/js/787.2e9082b0.chunk.js",
+    "index.html": "/Vanshika-Manav/note-maker.git/index.html",
+    "main.2f71993b.css.map": "/Vanshika-Manav/note-maker.git/static/css/main.2f71993b.css.map",
+    "main.f22c3d16.js.map": "/Vanshika-Manav/note-maker.git/static/js/main.f22c3d16.js.map",
+    "787.2e9082b0.chunk.js.map": "/Vanshika-Manav/note-maker.git/static/js/787.2e9082b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f71993b.css",
+    "static/js/main.f22c3d16.js"
+  ]
+}
