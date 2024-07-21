@@ -1,0 +1,55 @@
+* {
+  background-color: #a881af;
+}
+
+.main {
+  margin-top: 50px;
+}
+.main .nav {
+  justify-content: center;
+}
+.main .nav button {
+  background-color: #80669d;
+  border-radius: 10px;
+}
+.main .nav button .link {
+  background-color: #80669d;
+  color: black;
+}
+.main .nav button .link:hover {
+  color: white;
+}
+.main h2 {
+  color: purple;
+  text-shadow: 2px 2px #80669d;
+}
+.main button {
+  background-color: purple;
+  border: 1px black solid;
+  border-radius: 10px;
+}
+.main button:hover {
+  color: white;
+}
+
+.read h1 {
+  color: purple;
+  text-shadow: 2px 2px #80669d;
+}
+.read table {
+  border: 1px black solid;
+}
+.read table thead tr th {
+  color: purple;
+}
+.read table tbody tr {
+  color: purple;
+}
+.read table tbody tr td {
+  color: black;
+}
+.read table tbody tr:hover {
+  color: black;
+}
+
+/*# sourceMappingURL=output.css.map */

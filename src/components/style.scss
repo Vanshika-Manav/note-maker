@@ -1,0 +1,68 @@
+
+$primary-color:#a881af;
+$secondary-color:#80669d;
+$linkhover-color:white;
+$tablehover-color:black;
+$heading-color:purple;
+
+
+*{
+  background-color:$primary-color;
+}
+.main{
+  margin-top: 50px;
+   .nav{
+    justify-content: center;
+     button{
+      background-color:$secondary-color;
+      border-radius: 10px;
+       .link{
+        background-color:$secondary-color;
+        color:black;
+       }
+       .link:hover{
+        color:$linkhover-color;
+      }
+     }
+     }
+  h2{
+      color:$heading-color;
+      text-shadow: 2px 2px $secondary-color;
+     }
+  button{
+    background-color:$heading-color;
+    border: 1px black solid;
+    border-radius: 10px;
+  }
+  button:hover{
+    color:$linkhover-color;
+  }
+}
+.read{
+  h1{
+    color:$heading-color;
+    text-shadow: 2px 2px $secondary-color;
+  }
+  table{
+    border:1px black solid;
+    thead{
+      tr{
+        th{
+          color:$heading-color;
+        }
+      }
+    }
+    tbody{
+      tr{
+        color: $heading-color;
+        td{
+          color:black;
+        }
+      }
+      tr:hover{
+        color:$tablehover-color;
+      }
+       }
+  }
+}
+   
